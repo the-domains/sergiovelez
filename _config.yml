@@ -1,0 +1,28 @@
+name: sergiovelez
+favicon: null
+layout_spectrum: 0.5924476254731417
+typography_spectrum: 0.7436144975945354
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.3893994949758053
+  lightness: 0.8889350884128362
+  saturation: 0.5380087932571769
+  rhythmicContrast: 0.2833105446770787
+purpose: []
